@@ -40,4 +40,4 @@ After executing the application the `console output` and `D:/Logs/logger.log` fi
 
 You can find the tutorial for this application on my blog - 
 
-</>
+<http://bushansirgur.in/configure-logger-using-slf4j-in-spring-mvc/>
