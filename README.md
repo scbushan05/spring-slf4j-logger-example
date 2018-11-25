@@ -15,7 +15,7 @@ A Simple Example on Configuring Logger using SLF4J in Spring MVC.
 **1. Clone the application**
 
 ```bash
-git@github.com:scbushan05/spring-slf4j-logger-example.git
+https://github.com/scbushan05/spring-slf4j-logger-example.git
 ```
 
 **2. Build and run the app using maven**
